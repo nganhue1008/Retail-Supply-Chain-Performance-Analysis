@@ -13,6 +13,9 @@ Optimize strategic decisions around operations, marketing, and product delivery
 
 ## Findings
 ![Sales and Profit](https://github.com/nganhue1008/Retail-Supply-Chain-Performance-Analysis/blob/main/Sales%20and%20Profit.png)
+![Product Performance](https://github.com/nganhue1008/Retail-Supply-Chain-Performance-Analysis/blob/main/Product%20Performance.png)
+![Delivery Performance](https://github.com/nganhue1008/Retail-Supply-Chain-Performance-Analysis/blob/main/Delivery%20Performance.png)
+![Customer Behaviour](https://github.com/nganhue1008/Retail-Supply-Chain-Performance-Analysis/blob/main/Customer%20Behaviour.png)
 
 ### Sales and Profitability
 - Sales and profit have steadily increased year-over-year, with Q4 consistently being the strongest quarter due to seasonal demand.
