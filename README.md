@@ -12,6 +12,7 @@ Detect patterns in high return rates and repeat customer behavior
 Optimize strategic decisions around operations, marketing, and product delivery
 
 ## Findings
+![Sales and Profit](https://github.com/nganhue1008/Retail-Supply-Chain-Performance-Analysis/blob/main/Sales%20and%20Profit.png)
 
 ### Sales and Profitability
 - Sales and profit have steadily increased year-over-year, with Q4 consistently being the strongest quarter due to seasonal demand.
